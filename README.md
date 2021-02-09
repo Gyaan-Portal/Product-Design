@@ -14,4 +14,4 @@ Open the xd file in the repo.
 ## 🌟 PRODUCT UI
 Click Image to see Enlarge (Zoom) View:
 
-![UI of App](https://gyaanportal4free.s3.amazonaws.com/Screens.svg)
+![UI of App](https://github.com/Gyaan-Portal/Product-Design/blob/master/UI_Image.png)
